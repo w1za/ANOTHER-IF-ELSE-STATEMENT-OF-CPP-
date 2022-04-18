@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int number;
+    cout << "enter the value of fuckin  number " << endl;
+    cin >> number;
+
+    if (number < 10)
+    {
+        cout << "then your'e life is full of sadness more than the happiness up man you know you need internal happiness,and the other relief full things but you know this is not possible ,so your'e fucked up " << endl;
+    }
+    else if (number == 10)
+    {
+        cout << "your'e still feel yourself as a failure " << endl;
+    }
+    else
+    {
+        cout << "your'e the best person please smile.... just don't give up  and do your'e best and just don't give a damn bout what other thinks of you just unlock your greatness over different level " << endl;
+    }
+    return 0;
+}
